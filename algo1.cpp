@@ -94,3 +94,25 @@ void display() {
         }
     }
 };
+// Main function
+int main() {
+    LinkedList list;
+
+    list.insertAtEnd(10);
+    list.insertAtEnd(20);
+    list.insertAtBeginning(5);
+    list.insertAtEnd(30);
+
+    cout << "Linked list after insertions:" << endl;
+    list.display();
+
+    list.deleteNode(20);
+    cout << "Linked list after deleting 20:" << endl;
+    list.display();
+
+    list.deleteNode(40);
+    cout << "Linked list after trying to delete 40 (not in the list):" << endl;
+    list.display();
+
+    return 0;
+}
