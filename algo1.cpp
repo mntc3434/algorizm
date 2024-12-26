@@ -70,3 +70,27 @@ public:
         temp->next = temp->next->next;
         delete nodeToDelete;
     }
+void display() {
+        if (head == nullptr) {
+            cout << "List is empty." << endl;
+            return;
+        }
+
+        Node* temp = head;
+        while (temp != nullptr) {
+            cout << temp->data << " -> ";
+            temp = temp->next;
+        }
+        cout << "nullptr" << endl;
+    }
+
+    // Destructor to free memory
+    ~LinkedList() {
+        Node* temp;
+        while (head != nullptr) {
+            temp = head;
+            head = head->next;
+            delete temp;
+        }
+    }
+};
