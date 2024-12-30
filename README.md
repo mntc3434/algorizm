@@ -1,5 +1,5 @@
 # algorizm
-sdfjlafjas
+sdfjlaf
 # Linked List Implementation in C++
 
 ## Description
