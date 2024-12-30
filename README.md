@@ -1,5 +1,5 @@
 # algorizm
-s
+
 # Linked List Implementation in C++
 
 ## Description
