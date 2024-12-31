@@ -18,7 +18,7 @@ The linked list supports basic operations like:
 ## Prerequisites
 - A C++ compiler that supports C++11 or later (e.g., GCC, Clang, MSVC).
 - Basic knowledge of C++ programming and data structures.
-lajdfjslfdf
+lajdfjs
 ## How to Use
 
 ### 1. Clone the Repository
