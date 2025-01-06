@@ -15,7 +15,7 @@ struct Node {
 // Linked List class
 class LinkedList {
 private:
-    Node* head; // Pointer to the head of the list
+    Node* head; // Pointer to the head of the list this is the pointer that poits to the head of the node
 
 public:
     LinkedList() {
