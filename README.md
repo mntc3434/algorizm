@@ -20,7 +20,7 @@ The linked list supports basic operations like:
 - Basic knowledge of C++ programming and data structures.
   
 ## How to Use
-,,,
+,
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/linked-list-cpp.git
