@@ -26,4 +26,3 @@ The linked list supports basic operations like:
 git clone https://github.com/your-username/linked-list-cpp.git
 cd linked-list-cpp
 
-..
