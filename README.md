@@ -25,4 +25,4 @@ The linked list supports basic operations like:
 ```bash
 git clone https://github.com/your-username/linked-list-cpp.git
 cd linked-list-cpp
-...
+.
