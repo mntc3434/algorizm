@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-...
+..
 // Define a node structure
 struct Node {
     int data; // Data part of the node
